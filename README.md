@@ -4,7 +4,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.  
 [Jack Wang](https://github.com/JackInTheBox314), team member, team member, team member
 
 ## Stakeholders
@@ -21,10 +21,12 @@ See instructions. Delete this line and place a list of your User Stories here.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
-Example UML Activity Diagram:
+See instructions. Delete this line and place images of your UML Activity diagrams here.  
+Example UML Activity Diagram:  
 ![Example UML Activity Diagram](uml_activity_diagram.png)
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.  
+
+[prototype link](https://www.figma.com/proto/snzrok5nuP927l1r6CneUJ/TheBestTeam?node-id=1-2&p=f&t=0Sxey6lYgSSU1JSI-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
