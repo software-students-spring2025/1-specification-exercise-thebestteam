@@ -14,19 +14,19 @@ team member,
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 
-###Stakeholder 1: 
+### Stakeholder 1: 
 
 Goals/needs: 
 
 Problems/frustrations: 
 
-###Stakeholder 2: 
+### Stakeholder 2: 
 
 Goals/needs: 
 
 Problems/frustrations: 
 
-###Stakeholder 3: 
+### Stakeholder 3: 
 
 Goals/needs: 
 
