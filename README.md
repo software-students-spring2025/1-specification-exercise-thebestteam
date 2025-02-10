@@ -49,6 +49,24 @@ Problems/frustrations:
 - Be able to see class schedule while browsing courses.
 - Didn't check availability repeatedly so if someone dropped it he wouldn't know.
 
+### Stakeholder 3: Olivia Martinez
+
+**Goals/Needs:**
+- Wants to easily view and join waitlists for full classes to secure a spot if one becomes available.
+- Prefers the ability to sell her spot in a class to manage her schedule more flexibly and recover some of her tuition costs.
+- Desires notifications when a spot in a desired class opens up to register before it fills up again.
+- Needs to filter and search for classes by times, professors, and availability to find courses that best fit her academic and personal schedule.
+- As a graduating student, she wants classes that prepare her for the workforce.
+
+**Problems/Frustrations:**
+- Current systems make it difficult to manage waitlists effectively.
+- Missed opportunities due to a lack of notifications for open spots in desired classes.
+- Inability to switch or adjust class enrollments smoothly when schedules or preferences change.
+- Frustrated by vague course descriptions that do not clarify practical or workforce preparation elements.
+- Limited ability to filter courses based on preferences like times, professors, or workload.
+- Difficulty identifying career-focused or practical classes needed for workforce preparation.
+
+
 ## Product Vision Statement
 
 See instructions. Delete this line and place your Product Vision Statement here.
