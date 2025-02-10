@@ -72,6 +72,18 @@ As a student, I want to filter and search for classes by times, professors, and 
 
 See instructions. Delete this line and place a list of your User Stories here.
 
+## User Stories
+
+As a student, I want to easily view and join waitlists for full classes so that I can secure a spot if one becomes available.
+
+As a student, I want to be able to sell my spot in a class so that I can manage my schedule more flexibly and recover some of my tuition costs.
+
+As a student, I want to receive notifications when a spot in a desired class opens up so that I can register before it fills up again.
+
+As an administrator, I want to view real-time statistics on class demand and waitlist lengths so that I can adjust course offerings accordingly.
+
+As a student, I want to filter and search for classes by times, professors, and availability so that I can find courses that best fit my academic and personal schedule.
+
 As a student that is graduating soon, I am looking for a class that can prepare me for the workforce so that I feel ready. 
 
 As a customer, I want to sign up so I can start placing orders.
