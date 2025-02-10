@@ -76,10 +76,11 @@ As a student that is graduating soon, I am looking for a class that can prepare 
 
 As a customer, I want to sign up so I can start placing orders.
 
+As a college student graduating soon, I want get into a class that is practical so that I can be prepared for the workforce. 
 
-1. As a college student graduating soon, I want get into a class that is practical so that I can be prepared for the workforce. 
-2. As a college student looking into classes, I want to switch to classes that fit my needs so that I can take classes that are more balanced to handle the semester. 
-3. As a college student looking into signing up for classes, I want to sign up for classes with some people that I am familiar with so that I feel that I know some people in class and projects.
+As a college student looking into classes, I want to switch to classes that fit my needs so that I can take classes that are more balanced to handle the semester. 
+
+As a college student looking into signing up for classes, I want to sign up for classes with some people that I am familiar with so that I feel that I know some people in class and projects.
 
 ## Activity Diagrams
 
