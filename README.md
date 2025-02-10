@@ -67,6 +67,8 @@ As an administrator, I want to view real-time statistics on class demand and wai
 
 As a student, I want to filter and search for classes by times, professors, and availability so that I can find courses that best fit my academic and personal schedule.
 
+As a student, I want to be able to see historical course data (Stored in Course Feedback Results) on the course search page to help with enrollment decisions.
+
 ## User Requirements
 
 See instructions. Delete this line and place a list of your User Stories here.
