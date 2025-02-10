@@ -7,7 +7,7 @@ A little exercise to get started with the specification phase of the software de
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.  
 [Jack Wang](https://github.com/JackInTheBox314), 
 [Weite Li](https://github.com/YYukin0),
-team member, 
+[Jialiang Tang](https://github.com/JialiangTang1) 
 [Jonathan Gao](https://github.com/jg169)
 
 ## Stakeholders
