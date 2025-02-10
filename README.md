@@ -4,7 +4,6 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.  
 [Jack Wang](https://github.com/JackInTheBox314), 
 [Weite Li](https://github.com/YYukin0),
 [Jialiang Tang](https://github.com/JialiangTang1) 
@@ -38,23 +37,30 @@ Problems/frustrations:
 - feels like a waste of money
 - wanting some satisfaction from the course selections 
 
-### Stakeholder 2: 
+### Stakeholder 2: Alex Li
 
 Goals/needs: 
+- Wants to take cross-school class
+- Check popularity of course (how fast it fills up)
+- Check reviews of class (include ratings)
 
 Problems/frustrations: 
-
-### Stakeholder 3: 
-
-Goals/needs: 
-
-Problems/frustrations: 
+- Process of applying for cross-school class is very convoluted and can mess up enrollment for other classes.
+- Be able to see class schedule while browsing courses.
+- Didn't check availability repeatedly so if someone dropped it he wouldn't know.
 
 ## Product Vision Statement
 
 See instructions. Delete this line and place your Product Vision Statement here.
 
 ClassBay (like ebay but for classes) is a service that revamps class signups and waitlists with a secondary marketplace for course registration, providing course liquidity by allowing students to exchange spots during the add-drop period making a stressful process streamlined and leading to better matchups through social dynamics and free market principles. 
+
+
+As a student, I want to be able to see historical course data (Stored in Course Feedback Results) on the course search page to help with enrollment decisions.
+
+## User Requirements
+
+See instructions. Delete this line and place a list of your User Stories here.
 
 ## User Stories
 
@@ -68,18 +74,15 @@ As an administrator, I want to view real-time statistics on class demand and wai
 
 As a student, I want to filter and search for classes by times, professors, and availability so that I can find courses that best fit my academic and personal schedule.
 
-## User Requirements
-
-See instructions. Delete this line and place a list of your User Stories here.
-
 As a student that is graduating soon, I am looking for a class that can prepare me for the workforce so that I feel ready. 
 
 As a customer, I want to sign up so I can start placing orders.
 
+As a college student graduating soon, I want get into a class that is practical so that I can be prepared for the workforce. 
 
-1. As a college student graduating soon, I want get into a class that is practical so that I can be prepared for the workforce. 
-2. As a college student looking into classes, I want to switch to classes that fit my needs so that I can take classes that are more balanced to handle the semester. 
-3. As a college student looking into signing up for classes, I want to sign up for classes with some people that I am familiar with so that I feel that I know some people in class and projects.
+As a college student looking into classes, I want to switch to classes that fit my needs so that I can take classes that are more balanced to handle the semester. 
+
+As a college student looking into signing up for classes, I want to sign up for classes with some people that I am familiar with so that I feel that I know some people in class and projects.
 
 ## Activity Diagrams
 
