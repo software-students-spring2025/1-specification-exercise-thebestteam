@@ -13,7 +13,7 @@ A little exercise to get started with the specification phase of the software de
 
 ### Stakeholder 1: Shemar Forbes 
 
-Goals/needs: 
+**Goals/Needs:**
 - hope to have a good professor 
 - needs to be a good class fit 
 - likes classes with groups 
@@ -22,7 +22,7 @@ Goals/needs:
 - get into a class that works for the schedule, but instead of a number one choice he is searching for a second or third choice 
 - searching for second or third choice ruins the experience for him 
 
-Problems/frustrations: 
+**Problems/Frustrations:**
 - Albert itself should have a split screen view 
 - more student centric 
 - not realizing how many classes you may have is an issue 
@@ -37,12 +37,12 @@ Problems/frustrations:
 
 ### Stakeholder 2: Alex Li
 
-Goals/needs: 
+**Goals/Needs:**
 - Wants to take cross-school class
 - Check popularity of course (how fast it fills up)
 - Check reviews of class (include ratings)
 
-Problems/frustrations: 
+**Problems/Frustrations:** 
 - Process of applying for cross-school class is very convoluted and can mess up enrollment for other classes.
 - Be able to see class schedule while browsing courses.
 - Didn't check availability repeatedly so if someone dropped it he wouldn't know.
@@ -71,25 +71,25 @@ ClassBay (like ebay but for classes) is a service that revamps class signups and
 
 ## User Requirements
 
-As a student, I want to easily view and join waitlists for full classes so that I can secure a spot if one becomes available.
+- As a student, I want to easily view and join waitlists for full classes so that I can secure a spot if one becomes available.
 
-As a student, I want to be able to sell my spot in a class so that I can manage my schedule more flexibly and recover some of my tuition costs.
+- As a student, I want to be able to sell my spot in a class so that I can manage my schedule more flexibly and recover some of my tuition costs.
 
-As a student, I want to receive notifications when a spot in a desired class opens up so that I can register before it fills up again.
+- As a student, I want to receive notifications when a spot in a desired class opens up so that I can register before it fills up again.
 
-As an administrator, I want to view real-time statistics on class demand and waitlist lengths so that I can adjust course offerings accordingly.
+- As an administrator, I want to view real-time statistics on class demand and waitlist lengths so that I can adjust course offerings accordingly.
 
-As a student, I want to filter and search for classes by times, professors, and availability so that I can find courses that best fit my academic and personal schedule.
+- As a student, I want to filter and search for classes by times, professors, and availability so that I can find courses that best fit my academic and personal schedule.
 
-As a college student looking into classes, I want to switch to classes that fit my needs so that I can take classes that are more balanced to handle the semester. 
+- As a college student looking into classes, I want to switch to classes that fit my needs so that I can take classes that are more balanced to handle the semester. 
 
-As a college student looking into signing up for classes, I want to sign up for classes with some people that I am familiar with so that I feel that I know some people in class and projects.
+- As a college student looking into signing up for classes, I want to sign up for classes with some people that I am familiar with so that I feel that I know some people in class and projects.
 
-As a student, I want to be able to see historical course data (Stored in Course Feedback Results) on the course search page to help with enrollment decisions.
+- As a student, I want to be able to see historical course data (Stored in Course Feedback Results) on the course search page to help with enrollment decisions.
 
-As a student, I want to be able to bookmark/save classes for quick access so that I don't have to waste time looking through the entire class list each time.
+- As a student, I want to be able to bookmark/save classes for quick access so that I don't have to waste time looking through the entire class list each time.
 
-As a student, I want to receive alerts when a class I am interested in is nearing capacity so that I can register before it fills up if I am still undecided.
+- As a student, I want to receive alerts when a class I am interested in is nearing capacity so that I can register before it fills up if I am still undecided.
 
 ## Activity Diagrams
 
