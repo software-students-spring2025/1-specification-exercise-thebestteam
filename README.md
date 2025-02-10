@@ -84,6 +84,8 @@ As a college student looking into classes, I want to switch to classes that fit 
 
 As a college student looking into signing up for classes, I want to sign up for classes with some people that I am familiar with so that I feel that I know some people in class and projects.
 
+As a student, I want to be able to see historical course data (Stored in Course Feedback Results) on the course search page to help with enrollment decisions.
+
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.  
