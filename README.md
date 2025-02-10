@@ -4,7 +4,6 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.  
 [Jack Wang](https://github.com/JackInTheBox314), 
 [Weite Li](https://github.com/YYukin0),
 team member, 
@@ -38,17 +37,17 @@ Problems/frustrations:
 - feels like a waste of money
 - wanting some satisfaction from the course selections 
 
-### Stakeholder 2: 
+### Stakeholder 2: Alex Li
 
 Goals/needs: 
+- Wants to take cross-school class
+- Check popularity of course (how fast it fills up)
+- Check reviews of class (include ratings)
 
 Problems/frustrations: 
-
-### Stakeholder 3: 
-
-Goals/needs: 
-
-Problems/frustrations: 
+- Process of applying for cross-school class is very convoluted and can mess up enrollment for other classes.
+- Be able to see class schedule while browsing courses.
+- Didn't check availability repeatedly so if someone dropped it he wouldn't know.
 
 ## Product Vision Statement
 
