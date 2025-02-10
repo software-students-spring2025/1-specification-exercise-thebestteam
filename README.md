@@ -51,18 +51,9 @@ Problems/frustrations:
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
-
 ClassBay (like ebay but for classes) is a service that revamps class signups and waitlists with a secondary marketplace for course registration, providing course liquidity by allowing students to exchange spots during the add-drop period making a stressful process streamlined and leading to better matchups through social dynamics and free market principles. 
 
-
-As a student, I want to be able to see historical course data (Stored in Course Feedback Results) on the course search page to help with enrollment decisions.
-
 ## User Requirements
-
-See instructions. Delete this line and place a list of your User Stories here.
-
-## User Stories
 
 As a student, I want to easily view and join waitlists for full classes so that I can secure a spot if one becomes available.
 
@@ -88,12 +79,9 @@ As a student, I want to be able to see historical course data (Stored in Course 
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.  
 Example UML Activity Diagram:  
 ![Example UML Activity Diagram](uml_activity_diagram.png)
 
 ## Clickable Prototype
-
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.  
 
 [prototype link](https://www.figma.com/proto/snzrok5nuP927l1r6CneUJ/TheBestTeam?node-id=1-2&p=f&t=0Sxey6lYgSSU1JSI-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
