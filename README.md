@@ -11,8 +11,6 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
-
 ### Stakeholder 1: Shemar Forbes 
 
 Goals/needs: 
@@ -83,17 +81,15 @@ As an administrator, I want to view real-time statistics on class demand and wai
 
 As a student, I want to filter and search for classes by times, professors, and availability so that I can find courses that best fit my academic and personal schedule.
 
-As a student that is graduating soon, I am looking for a class that can prepare me for the workforce so that I feel ready. 
-
-As a customer, I want to sign up so I can start placing orders.
-
-As a college student graduating soon, I want get into a class that is practical so that I can be prepared for the workforce. 
-
 As a college student looking into classes, I want to switch to classes that fit my needs so that I can take classes that are more balanced to handle the semester. 
 
 As a college student looking into signing up for classes, I want to sign up for classes with some people that I am familiar with so that I feel that I know some people in class and projects.
 
 As a student, I want to be able to see historical course data (Stored in Course Feedback Results) on the course search page to help with enrollment decisions.
+
+As a student, I want to be able to bookmark/save classes for quick access so that I don't have to waste time looking through the entire class list each time.
+
+As a student, I want to receive alerts when a class I am interested in is nearing capacity so that I can register before it fills up if I am still undecided.
 
 ## Activity Diagrams
 
