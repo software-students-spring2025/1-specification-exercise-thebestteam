@@ -56,6 +56,18 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ClassBay (like ebay but for classes) is a service that revamps class signups and waitlists with a secondary marketplace for course registration, providing course liquidity by allowing students to exchange spots during the add-drop period making a stressful process streamlined and leading to better matchups through social dynamics and free market principles. 
 
+## User Stories
+
+As a student, I want to easily view and join waitlists for full classes so that I can secure a spot if one becomes available.
+
+As a student, I want to be able to sell my spot in a class so that I can manage my schedule more flexibly and recover some of my tuition costs.
+
+As a student, I want to receive notifications when a spot in a desired class opens up so that I can register before it fills up again.
+
+As an administrator, I want to view real-time statistics on class demand and waitlist lengths so that I can adjust course offerings accordingly.
+
+As a student, I want to filter and search for classes by times, professors, and availability so that I can find courses that best fit my academic and personal schedule.
+
 ## User Requirements
 
 See instructions. Delete this line and place a list of your User Stories here.
