@@ -88,7 +88,7 @@ User Story: As a student, I want to join a friend's class because it makes class
 ![UML Diagram 1](UML1.png)
 
 User Story: As a student, I want to be able to bookmark/save classes for quick access so that I don't have to waste time looking through the entire class list each time.
-![UML Diagram 2](UML1.png)
+![UML Diagram 2](UML2.png)
 
 ## Clickable Prototype
 
