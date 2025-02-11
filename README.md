@@ -84,8 +84,8 @@ ClassBay (like ebay but for classes) is a service that revamps class signups and
 
 ## Activity Diagrams
 
-UML Activity Diagram:  
-![UML Activity Diagram](UserCase1.png)
+Example UML Activity Diagram:  
+![Example UML Activity Diagram](uml_activity_diagram.png)
 
 ## Clickable Prototype
 
