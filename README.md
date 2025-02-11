@@ -92,4 +92,4 @@ User Story: As a student, I want to be able to bookmark/save classes for quick a
 
 ## Clickable Prototype
 
-[Prototype Link](https://www.figma.com/proto/snzrok5nuP927l1r6CneUJ/TheBestTeam?node-id=1-2&p=f&t=0Sxey6lYgSSU1JSI-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
+[Prototype Link](https://www.figma.com/proto/snzrok5nuP927l1r6CneUJ/ClassBay-%E2%80%93-TheBestTeam?node-id=122-687&t=DUBnweDx8PBjvqd7-1)
