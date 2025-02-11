@@ -84,9 +84,12 @@ ClassBay (like ebay but for classes) is a service that revamps class signups and
 
 ## Activity Diagrams
 
-Example UML Activity Diagram:  
+User Story: As a student, I want to join a friend's class because it makes class both more fun and more engaging.
 ![UML Diagram 1](UML1.png)
+
+User Story: As a student, I want to be able to bookmark/save classes for quick access so that I don't have to waste time looking through the entire class list each time.
+![UML Diagram 2](UML1.png)
 
 ## Clickable Prototype
 
-[prototype link](https://www.figma.com/proto/snzrok5nuP927l1r6CneUJ/TheBestTeam?node-id=1-2&p=f&t=0Sxey6lYgSSU1JSI-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
+[Prototype Link](https://www.figma.com/proto/snzrok5nuP927l1r6CneUJ/TheBestTeam?node-id=1-2&p=f&t=0Sxey6lYgSSU1JSI-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
