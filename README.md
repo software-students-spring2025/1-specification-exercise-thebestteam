@@ -77,7 +77,7 @@ ClassBay (like ebay but for classes) is a service that revamps class signups and
 - As a student, I want to view statistics on class demand so that I can plan for which classes I may need focus on during signup periods 
 - As a student, I want to filter and search for classes by times, professors, and availability so that I can find courses that best fit my academic and personal schedule.
 - As a college student looking into classes, I want to switch to classes that fit my needs so that I can take classes that are more balanced to handle the semester. 
-- As a college student looking into signing up for classes, I want to sign up for classes with  people that I am familiar with so that I feel that I know some people in class and projects.
+- As a student, I want to join a friend's class because it makes class both more fun and more engaging.
 - As a student, I want to be able to see easily see historical course data that is stored in course feedback results on the course search page to help with enrollment decisions.
 - As a student, I want to be able to bookmark/save classes for quick access so that I don't have to waste time looking through the entire class list each time.
 - As a student, I want to receive alerts when a class I am interested is opening up so that I can register before it fills up if I am still undecided. 
